@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/LuckyPrinting/static/js/main.8da494a1.js",
-    "static/media/Grid1.mp4": "/LuckyPrinting/static/media/Grid1.33a1c0e29bc2a009f48f.mp4",
-    "static/media/Grid4.mp4": "/LuckyPrinting/static/media/Grid4.3852234211855123f800.mp4",
-    "static/media/Grid3.mp4": "/LuckyPrinting/static/media/Grid3.7335ff424b1c2d510a5e.mp4",
-    "static/media/Grid5.mp4": "/LuckyPrinting/static/media/Grid5.9ab5166c8363728f7f1b.mp4",
-    "static/media/Grid6.mp4": "/LuckyPrinting/static/media/Grid6.6cfc22844b37ddf758c6.mp4",
-    "static/media/topBanner.png": "/LuckyPrinting/static/media/topBanner.a5cca8505389ebb55b32.png",
-    "static/media/Grid2.mp4": "/LuckyPrinting/static/media/Grid2.8e409f587cad83484224.mp4",
-    "static/media/Grid7.mp4": "/LuckyPrinting/static/media/Grid7.672f9624b729b9b4adec.mp4",
-    "static/media/Grid8.mp4": "/LuckyPrinting/static/media/Grid8.e2909ed668b63f746790.mp4",
+    "main.js": "/LuckyPrinting/static/js/main.f8934ada.js",
+    "static/media/Grid5.mp4": "/LuckyPrinting/static/media/Grid5.f3cecb835f0e279bdaf3.mp4",
+    "static/media/Grid8.mp4": "/LuckyPrinting/static/media/Grid8.6342cef1ef58c67edcf9.mp4",
+    "static/media/Grid7.mp4": "/LuckyPrinting/static/media/Grid7.3a491140bc6ec21e97f3.mp4",
+    "static/media/Grid6.mp4": "/LuckyPrinting/static/media/Grid6.1d1245cb3f9bbdedec2a.mp4",
+    "static/media/Grid2.mp4": "/LuckyPrinting/static/media/Grid2.eb09bb116c9e9e1bfcd0.mp4",
+    "static/media/Grid1.mp4": "/LuckyPrinting/static/media/Grid1.472a992dfbc7a2123035.mp4",
+    "static/media/Grid3.mp4": "/LuckyPrinting/static/media/Grid3.893f10ca2aaefe8975b5.mp4",
+    "static/media/Grid4.mp4": "/LuckyPrinting/static/media/Grid4.b0a23e14cba4bdfd6cd0.mp4",
+    "static/media/topBanner.png": "/LuckyPrinting/static/media/topBanner.1ae40f3e9ac7ca8a9965.png",
     "static/media/contactVideo.mp4": "/LuckyPrinting/static/media/contactVideo.42b99a5ca8d139fef25a.mp4",
     "index.html": "/LuckyPrinting/index.html",
-    "main.8da494a1.js.map": "/LuckyPrinting/static/js/main.8da494a1.js.map"
+    "main.f8934ada.js.map": "/LuckyPrinting/static/js/main.f8934ada.js.map"
   },
   "entrypoints": [
-    "static/js/main.8da494a1.js"
+    "static/js/main.f8934ada.js"
   ]
 }
