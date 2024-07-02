@@ -1,4 +1,4 @@
-import contactvideo from "./Assets/contactVideo.mp4";
+import review from "./Assets/review.jpg";
 
 function ContactInfo() {
   const containerWrapper = {
@@ -24,10 +24,12 @@ function ContactInfo() {
     overflow: "hidden",
   };
 
-  const videoStyle = {
+  const imageStyle = {
     width: "25%",
     height: "100%",
     overflow: "hidden",
+    marginTop: "6%",
+    borderRadius: "10%",
   };
 
   return (
@@ -40,6 +42,8 @@ function ContactInfo() {
           <p className="pstyle">Email: lucky0288@gmail.com</p>
         </div>
       </div>
+      <img src={review} alt="review" style={imageStyle} />
+  
     </div>
   );
 }
