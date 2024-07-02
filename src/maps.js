@@ -20,7 +20,7 @@ function Maps() {
       <div style={flexWrapper} className="maps">
         <h1>Locate Us!</h1>
         <b>
-          <p style={addressStyle}>1 Roxy Square, 50 E Coast Road S428769</p>
+          <p style={addressStyle}>1 Roxy Square, #02-44 50 E Coast Road S428769</p>
         </b>
           <div className="grid1maps">
             <iframe

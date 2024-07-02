@@ -42,7 +42,7 @@ function ContactInfo() {
           <p className="pstyle">Email: lucky0288@gmail.com</p>
         </div>
       </div>
-      <img src={review} alt="review" style={imageStyle} />
+      <img src={review} alt="review" style={imageStyle} className="contactBody" />
   
     </div>
   );
