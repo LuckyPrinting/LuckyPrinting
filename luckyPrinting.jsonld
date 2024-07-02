@@ -1,11 +1,11 @@
 {
     "@context": "http://schema.org",
-    "@type": "AutoDealer",
-    "name": "Le Motor Enterprise",
-    "description": "Discover the best in car rentals, sales, and trade-ins at our car company located at 1 Roxy Square, 50 East Coast Road, Singapore. We offer a wide range of vehicles to suit your needs and provide exceptional service to ensure your satisfaction. Visit us today for the best deals on car rentals, sales, and trade-ins in Singapore!",
+    "@type": "Printing shop",
+    "name": "Lucky Printing and stationary",
+    "description": "Discover cheap, affordable printing service at 1 Roxy square",
     "url": "https://lemotorenterprise.github.io/LeMotor/",
     "logo": "%PUBLIC_URL%/icon.png",
-    "telephone": "",
+    "telephone": "428769",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "1 Roxy Square, 50 East Coast Road",
