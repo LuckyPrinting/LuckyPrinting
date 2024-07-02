@@ -1,6 +1,14 @@
 {
   "files": {
-    "main.js": "/LuckyPrinting/static/js/main.ae321d4e.js",
+    "main.js": "/LuckyPrinting/static/js/main.71a454e6.js",
+    "static/js/208.d2f8c5a7.chunk.js": "/LuckyPrinting/static/js/208.d2f8c5a7.chunk.js",
+    "static/js/293.02a17dca.chunk.js": "/LuckyPrinting/static/js/293.02a17dca.chunk.js",
+    "static/js/917.e1da3401.chunk.js": "/LuckyPrinting/static/js/917.e1da3401.chunk.js",
+    "static/js/516.17bb55fc.chunk.js": "/LuckyPrinting/static/js/516.17bb55fc.chunk.js",
+    "static/js/519.ed78c0cb.chunk.js": "/LuckyPrinting/static/js/519.ed78c0cb.chunk.js",
+    "static/js/946.11f68788.chunk.js": "/LuckyPrinting/static/js/946.11f68788.chunk.js",
+    "static/js/160.e46f2cad.chunk.js": "/LuckyPrinting/static/js/160.e46f2cad.chunk.js",
+    "static/js/23.46053682.chunk.js": "/LuckyPrinting/static/js/23.46053682.chunk.js",
     "static/media/Grid5.m4v": "/LuckyPrinting/static/media/Grid5.ed3f3aa32c22519492c2.m4v",
     "static/media/Grid8.m4v": "/LuckyPrinting/static/media/Grid8.1bc9b9c7f03c19bf210b.m4v",
     "static/media/Grid7.m4v": "/LuckyPrinting/static/media/Grid7.5882bf711a7feff955ac.m4v",
@@ -12,9 +20,17 @@
     "static/media/Grid1.m4v": "/LuckyPrinting/static/media/Grid1.25cf33738487bb1141c5.m4v",
     "static/media/Grid2.m4v": "/LuckyPrinting/static/media/Grid2.dc6362e9351e2d1a1fc9.m4v",
     "index.html": "/LuckyPrinting/index.html",
-    "main.ae321d4e.js.map": "/LuckyPrinting/static/js/main.ae321d4e.js.map"
+    "main.71a454e6.js.map": "/LuckyPrinting/static/js/main.71a454e6.js.map",
+    "208.d2f8c5a7.chunk.js.map": "/LuckyPrinting/static/js/208.d2f8c5a7.chunk.js.map",
+    "293.02a17dca.chunk.js.map": "/LuckyPrinting/static/js/293.02a17dca.chunk.js.map",
+    "917.e1da3401.chunk.js.map": "/LuckyPrinting/static/js/917.e1da3401.chunk.js.map",
+    "516.17bb55fc.chunk.js.map": "/LuckyPrinting/static/js/516.17bb55fc.chunk.js.map",
+    "519.ed78c0cb.chunk.js.map": "/LuckyPrinting/static/js/519.ed78c0cb.chunk.js.map",
+    "946.11f68788.chunk.js.map": "/LuckyPrinting/static/js/946.11f68788.chunk.js.map",
+    "160.e46f2cad.chunk.js.map": "/LuckyPrinting/static/js/160.e46f2cad.chunk.js.map",
+    "23.46053682.chunk.js.map": "/LuckyPrinting/static/js/23.46053682.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.ae321d4e.js"
+    "static/js/main.71a454e6.js"
   ]
 }
