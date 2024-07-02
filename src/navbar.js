@@ -30,7 +30,7 @@ const NavBar = () => {
   };
 
   const logoStyle = {
-    width: "15%",
+    width: "20%",
   };
 
   return (
@@ -69,6 +69,7 @@ const NavBar = () => {
           </Link>
         </div>
         <Routes>
+          <Route path="/" element={<Homepage />} />
           <Route path="/LuckyPrinting" element={<Homepage />} />
           <Route path="/chat-with-jasonbot" element={<ChatWithJasonBot />} />
           <Route path="/Services" element={<Services />} />
