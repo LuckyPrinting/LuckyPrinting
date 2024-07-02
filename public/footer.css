@@ -45,14 +45,14 @@
   .bottomSection {
     display: flex;
     justify-content: center;
-    background: #051D40;
+    background: #EC5107;
     padding: 1em;
     color: white;
     flex-direction: column;
   }
 
   .wwLogo {
-    width: 30%;
+    width: 20%;
     padding-bottom: 3%;
   }
 

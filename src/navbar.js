@@ -55,7 +55,7 @@ const NavBar = () => {
             Home
           </Link>
           <a
-            href="https://chatgpt.com/g/g-RitYiGDNl-le-motor-enterprise"
+            href="https://chatgpt.com/g/g-h6SP5MWR4-lucky-bot"
             style={linkStyle}
             className="navlinks"
           >
