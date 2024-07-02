@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 
 const containerWrapper = {
   display: "flex",
@@ -14,18 +14,26 @@ const splineContainer = {
   width: "100%",
 };
 
-const h1Style = {
-  marginTop: "3%",
-  textAlign: "center",
-};
-
 function SpliceElement() {
+  const [isLoaded, setIsLoaded] = useState(false);
+
+  useEffect(() => {
+    // Simulate an async loading
+    const timer = setTimeout(() => {
+      setIsLoaded(true);
+    }, 0); // Adjust time as needed to simulate loading delay
+
+    return () => clearTimeout(timer);
+  }, []);
+
   return (
     <div>
       <div style={containerWrapper}>
-        <div style={splineContainer} className="splineContainer">
-        <spline-viewer loading-anim-type="spinner-big-light" url="https://prod.spline.design/gEjwhpj6dNDva5Kh/scene.splinecode"></spline-viewer>        
-        </div>
+        {isLoaded && (
+          <div style={splineContainer} className="splineContainer">
+            <spline-viewer loading-anim-type="spinner-big-dark" url="https://prod.spline.design/gEjwhpj6dNDva5Kh/scene.splinecode"></spline-viewer>
+          </div>
+        )}
       </div>
     </div>
   );
