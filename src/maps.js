@@ -46,16 +46,6 @@ function Maps() {
               referrerPolicy="no-referrer-when-downgrade"
             ></iframe>
           </div>
-          <div className="grid2maps">
-            <iframe
-              style={gridMaps}
-              src="https://www.google.com/maps/embed?pb=!4v1719511738352!6m8!1m7!1s_e9K_T1IYGr7D8VXluAtXA!2m2!1d1.303824235795248!2d103.9046160693781!3f187.04936435496995!4f-1.3516936065231988!5f0.7820865974627469"
-              allowFullScreen=""
-              loading="lazy"
-              referrerPolicy="no-referrer-when-downgrade"
-              title="Map 2"
-            ></iframe>
-          </div>
         </div>
       </div>
     </div>
