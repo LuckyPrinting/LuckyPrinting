@@ -27,7 +27,7 @@ function SpliceElement() {
   }, []);
 
   return (
-    <div>
+    <div style={splineContainer} className="splineContainer">
       <SplineElement />
     </div>
   );
