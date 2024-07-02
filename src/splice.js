@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-
+import SplineElement from "./spline";
 const containerWrapper = {
   display: "flex",
   justifyContent: "center",
@@ -28,13 +28,7 @@ function SpliceElement() {
 
   return (
     <div>
-      <div style={containerWrapper}>
-        {isLoaded && (
-          <div style={splineContainer} className="splineContainer">
-            <spline-viewer loading-anim-type="spinner-big-dark" url="https://prod.spline.design/gEjwhpj6dNDva5Kh/scene.splinecode"></spline-viewer>
-          </div>
-        )}
-      </div>
+      <SplineElement />
     </div>
   );
 }
