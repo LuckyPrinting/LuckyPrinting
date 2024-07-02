@@ -8,7 +8,6 @@ function Homepage() {
   return (
     <div>
       <SpliceElement />
-      <GridContainer />
       <Services />
       <Contactparent />
     </div>

@@ -19,7 +19,7 @@ function ContactInfo() {
     justifyContent: "center",
     alignItems: "center",
     border: "1px solid #051D40",
-    background: "#091b39",
+    background: "#ED5107",
     color: "white",
     overflow: "hidden",
   };
@@ -35,20 +35,9 @@ function ContactInfo() {
       <h1>Contact Information</h1>
       <div style={bodyStyle} className="contactBody">
         <div>
-          <p className="pstyle">Phone: 6440 5131</p>
-          <p className="pstyle">Email: richard@lemotor.com.sg</p>
-          <p className="pstyle">Richard Wong (Purchaser) 9769 2303</p>
-          <p className="pstyle">Alan Sim(Sales) 9821 1739</p>
-          <video style={videoStyle}>
-            <source
-              muted
-              autoPlay
-              playsInline
-              loop
-              src={contactvideo}
-              alt="Contact Video"
-            />
-          </video>
+          <p className="pstyle">Phone (PayNow): 92291921</p>
+          <p className="pstyle">Phone (PayLah): 92291921</p>
+          <p className="pstyle">Email: lucky0288@gmail.com</p>
         </div>
       </div>
     </div>

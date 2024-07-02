@@ -43,7 +43,7 @@ function GridContainer() {
 
   return (
     <div style={flexWrapper}>
-      <h1>Tap / Click to enlargen</h1>
+      <h1>Tap / Click to enlarge</h1>
       <div style={gridWrapper}>
         <div style={gridContainers}>
           <video
