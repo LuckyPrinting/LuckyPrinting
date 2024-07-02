@@ -37,12 +37,13 @@ function Maps() {
         <div style={gridStyle} className="GridMaps">
           <div className="grid1maps">
             <iframe
-              style={gridMaps}
-              src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15955.140654492527!2d103.9044345!3d1.3039278!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da187224baf505%3A0x462d640f90456602!2sLe%20Motor%20Enterprise!5e0!3m2!1sen!2ssg!4v1719342160105!5m2!1sen!2ssg"
+              src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15955.140932112508!2d103.9043973!3d1.303884!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1872ffffffff%3A0xe543b30e38bba0d2!2sLucky%20Printing%20%26%20Stationery!5e0!3m2!1sen!2ssg!4v1719914792196!5m2!1sen!2ssg"
+              width="600"
+              height="450"
+              style={{ border: "0" }}
               allowFullScreen=""
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
-              title="Map 1"
             ></iframe>
           </div>
           <div className="grid2maps">

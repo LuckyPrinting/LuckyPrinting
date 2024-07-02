@@ -8,7 +8,6 @@ import grid6 from "./Assets/GridAssets/Grid6.mp4";
 import grid7 from "./Assets/GridAssets/Grid7.mp4";
 import grid8 from "./Assets/GridAssets/Grid8.mp4";
 
-
 function GridContainer() {
   const flexWrapper = {
     display: "flex",
@@ -22,9 +21,9 @@ function GridContainer() {
   const gridWrapper = {
     display: "grid",
     gridTemplateColumns: "1fr 1fr", // Flexible columns
-    gridGap: "30%",
+    gridGap: "10%",
     padding: "10px",
-    width: "60%", // Increased width for better spacing
+    width: "80%", // Increased width for better spacing
     marginTop: "3%",
     marginBottom: "5%",
   };
