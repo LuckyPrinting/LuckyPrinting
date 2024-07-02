@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lemotorenterprise.github.io/LeMotor/sitemap.xml
