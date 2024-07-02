@@ -1,12 +1,12 @@
 import React from "react";
-import grid1 from "./Assets/GridAssets/Grid1.mp4";
-import grid2 from "./Assets/GridAssets/Grid2.mp4";
-import grid3 from "./Assets/GridAssets/Grid3.mp4";
-import grid4 from "./Assets/GridAssets/Grid4.mp4";
-import grid5 from "./Assets/GridAssets/Grid5.mp4";
-import grid6 from "./Assets/GridAssets/Grid6.mp4";
-import grid7 from "./Assets/GridAssets/Grid7.mp4";
-import grid8 from "./Assets/GridAssets/Grid8.mp4";
+import grid1 from "./Assets/GridAssets/Grid1.m4v";
+import grid2 from "./Assets/GridAssets/Grid2.m4v";
+import grid3 from "./Assets/GridAssets/Grid3.m4v";
+import grid4 from "./Assets/GridAssets/Grid4.m4v";
+import grid5 from "./Assets/GridAssets/Grid5.m4v";
+import grid6 from "./Assets/GridAssets/Grid6.m4v";
+import grid7 from "./Assets/GridAssets/Grid7.m4v";
+import grid8 from "./Assets/GridAssets/Grid8.m4v";
 
 function GridContainer() {
   const flexWrapper = {
