@@ -1,36 +1,20 @@
 {
   "files": {
-    "main.js": "/LuckyPrinting/static/js/main.71a454e6.js",
-    "static/js/208.d2f8c5a7.chunk.js": "/LuckyPrinting/static/js/208.d2f8c5a7.chunk.js",
-    "static/js/293.02a17dca.chunk.js": "/LuckyPrinting/static/js/293.02a17dca.chunk.js",
-    "static/js/917.e1da3401.chunk.js": "/LuckyPrinting/static/js/917.e1da3401.chunk.js",
-    "static/js/516.17bb55fc.chunk.js": "/LuckyPrinting/static/js/516.17bb55fc.chunk.js",
-    "static/js/519.ed78c0cb.chunk.js": "/LuckyPrinting/static/js/519.ed78c0cb.chunk.js",
-    "static/js/946.11f68788.chunk.js": "/LuckyPrinting/static/js/946.11f68788.chunk.js",
-    "static/js/160.e46f2cad.chunk.js": "/LuckyPrinting/static/js/160.e46f2cad.chunk.js",
-    "static/js/23.46053682.chunk.js": "/LuckyPrinting/static/js/23.46053682.chunk.js",
-    "static/media/Grid5.m4v": "/LuckyPrinting/static/media/Grid5.ed3f3aa32c22519492c2.m4v",
-    "static/media/Grid8.m4v": "/LuckyPrinting/static/media/Grid8.1bc9b9c7f03c19bf210b.m4v",
-    "static/media/Grid7.m4v": "/LuckyPrinting/static/media/Grid7.5882bf711a7feff955ac.m4v",
-    "static/media/Grid6.m4v": "/LuckyPrinting/static/media/Grid6.b3775d9c9d3e747573c0.m4v",
-    "static/media/review.jpg": "/LuckyPrinting/static/media/review.127a82f01d1551f07038.jpg",
-    "static/media/Grid3.m4v": "/LuckyPrinting/static/media/Grid3.5111e6ed2a9d5841f56b.m4v",
-    "static/media/Grid4.m4v": "/LuckyPrinting/static/media/Grid4.0ea4c311990941d18d29.m4v",
+    "main.js": "/LuckyPrinting/static/js/main.f8934ada.js",
+    "static/media/Grid5.mp4": "/LuckyPrinting/static/media/Grid5.f3cecb835f0e279bdaf3.mp4",
+    "static/media/Grid8.mp4": "/LuckyPrinting/static/media/Grid8.6342cef1ef58c67edcf9.mp4",
+    "static/media/Grid7.mp4": "/LuckyPrinting/static/media/Grid7.3a491140bc6ec21e97f3.mp4",
+    "static/media/Grid6.mp4": "/LuckyPrinting/static/media/Grid6.1d1245cb3f9bbdedec2a.mp4",
+    "static/media/Grid2.mp4": "/LuckyPrinting/static/media/Grid2.eb09bb116c9e9e1bfcd0.mp4",
+    "static/media/Grid1.mp4": "/LuckyPrinting/static/media/Grid1.472a992dfbc7a2123035.mp4",
+    "static/media/Grid3.mp4": "/LuckyPrinting/static/media/Grid3.893f10ca2aaefe8975b5.mp4",
+    "static/media/Grid4.mp4": "/LuckyPrinting/static/media/Grid4.b0a23e14cba4bdfd6cd0.mp4",
     "static/media/topBanner.png": "/LuckyPrinting/static/media/topBanner.1ae40f3e9ac7ca8a9965.png",
-    "static/media/Grid1.m4v": "/LuckyPrinting/static/media/Grid1.25cf33738487bb1141c5.m4v",
-    "static/media/Grid2.m4v": "/LuckyPrinting/static/media/Grid2.dc6362e9351e2d1a1fc9.m4v",
+    "static/media/contactVideo.mp4": "/LuckyPrinting/static/media/contactVideo.42b99a5ca8d139fef25a.mp4",
     "index.html": "/LuckyPrinting/index.html",
-    "main.71a454e6.js.map": "/LuckyPrinting/static/js/main.71a454e6.js.map",
-    "208.d2f8c5a7.chunk.js.map": "/LuckyPrinting/static/js/208.d2f8c5a7.chunk.js.map",
-    "293.02a17dca.chunk.js.map": "/LuckyPrinting/static/js/293.02a17dca.chunk.js.map",
-    "917.e1da3401.chunk.js.map": "/LuckyPrinting/static/js/917.e1da3401.chunk.js.map",
-    "516.17bb55fc.chunk.js.map": "/LuckyPrinting/static/js/516.17bb55fc.chunk.js.map",
-    "519.ed78c0cb.chunk.js.map": "/LuckyPrinting/static/js/519.ed78c0cb.chunk.js.map",
-    "946.11f68788.chunk.js.map": "/LuckyPrinting/static/js/946.11f68788.chunk.js.map",
-    "160.e46f2cad.chunk.js.map": "/LuckyPrinting/static/js/160.e46f2cad.chunk.js.map",
-    "23.46053682.chunk.js.map": "/LuckyPrinting/static/js/23.46053682.chunk.js.map"
+    "main.f8934ada.js.map": "/LuckyPrinting/static/js/main.f8934ada.js.map"
   },
   "entrypoints": [
-    "static/js/main.71a454e6.js"
+    "static/js/main.f8934ada.js"
   ]
 }
