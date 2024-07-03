@@ -8,7 +8,7 @@
     }
 
     .grid-video:hover {
-        transform: scale(2.1);
+        transform: scale(1.5);
         transition: ease-in-out 0.5s;
     }
 }
