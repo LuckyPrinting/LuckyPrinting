@@ -18,7 +18,6 @@ function ContactInfo() {
     display: "flex",
     justifyContent: "center",
     alignItems: "center",
-    border: "1px solid #051D40",
     background: "#ED5107",
     color: "white",
     overflow: "hidden",
