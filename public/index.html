@@ -37,26 +37,15 @@
 </head>
 
 <script>
-  // Function to scroll to the top of the page
-  function scrollToTop() {
-    window.scrollTo({
-      top: 0,
-      behavior: 'smooth'
-    });
-  }
-
-  // Show the button when the user scrolls down 20px from the top of the document
-  window.onscroll = function() {scrollFunction()};
 
   function scrollFunction() {
-      document.getElementById("scrollTopButton").style.display = "block";
       window.location.href = "https://chatgpt.com/g/g-h6SP5MWR4-lucky-bot";
   }
 </script>
 
 
 <body>
-  <button onclick="scrollToTop()" id="scrollTopButton" title="Go to top">Chat with our AI bot🤖</button>
+  <button onclick="scrollFunction()" id="scrollTopButton" title="Go to top">Chat with our AI bot🤖</button>
   <noscript>You need to enable JavaScript to run this app.</noscript>
   <div id="root"></div>
 </body>

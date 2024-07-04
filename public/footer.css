@@ -1,5 +1,5 @@
 #scrollTopButton {
-  display: none; /* Hide the button by default */
+  display: block; /* Hide the button by default */
   position: fixed;
   bottom: 20px;
   right: 30px;
