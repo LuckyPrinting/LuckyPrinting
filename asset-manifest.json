@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/LuckyPrinting/static/js/main.1514533c.js",
+    "main.js": "/LuckyPrinting/static/js/main.be16f9ab.js",
     "static/js/208.d2f8c5a7.chunk.js": "/LuckyPrinting/static/js/208.d2f8c5a7.chunk.js",
     "static/js/293.02a17dca.chunk.js": "/LuckyPrinting/static/js/293.02a17dca.chunk.js",
     "static/js/917.e1da3401.chunk.js": "/LuckyPrinting/static/js/917.e1da3401.chunk.js",
@@ -20,7 +20,7 @@
     "static/media/Grid1.m4v": "/LuckyPrinting/static/media/Grid1.25cf33738487bb1141c5.m4v",
     "static/media/Grid2.m4v": "/LuckyPrinting/static/media/Grid2.dc6362e9351e2d1a1fc9.m4v",
     "index.html": "/LuckyPrinting/index.html",
-    "main.1514533c.js.map": "/LuckyPrinting/static/js/main.1514533c.js.map",
+    "main.be16f9ab.js.map": "/LuckyPrinting/static/js/main.be16f9ab.js.map",
     "208.d2f8c5a7.chunk.js.map": "/LuckyPrinting/static/js/208.d2f8c5a7.chunk.js.map",
     "293.02a17dca.chunk.js.map": "/LuckyPrinting/static/js/293.02a17dca.chunk.js.map",
     "917.e1da3401.chunk.js.map": "/LuckyPrinting/static/js/917.e1da3401.chunk.js.map",
@@ -31,6 +31,6 @@
     "23.46053682.chunk.js.map": "/LuckyPrinting/static/js/23.46053682.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.1514533c.js"
+    "static/js/main.be16f9ab.js"
   ]
 }
