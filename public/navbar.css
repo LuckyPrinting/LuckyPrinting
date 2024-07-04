@@ -13,4 +13,9 @@
         font-size: 80% !important;
         padding: 3%;
     }
+
+    .topbanner {
+        width: 30% !important;
+    }
+    
 }
