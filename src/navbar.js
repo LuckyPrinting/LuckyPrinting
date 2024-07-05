@@ -91,6 +91,7 @@ const NavBar = () => {
     <Router basename="/">
       <div style={bodyStyle}>
         <div
+          className="topbannerContainer"
           style={{
             backgroundColor: "#fff",
             textAlign: "center",
