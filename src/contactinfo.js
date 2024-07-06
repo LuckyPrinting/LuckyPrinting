@@ -40,7 +40,7 @@ function ContactInfo() {
 
   return (
     <div style={containerWrapper} className="contact">
-      <ElfsightWidget widgetID="f64e3bd0-382c-4fce-aa0f-0a3811793795" />
+      <ElfsightWidget widgetId="1a9c8981-3290-46df-97dd-1e570453e366" />
       <h1 style={h1Style}>Contact Information</h1>
       <div style={bodyStyle} className="contactBody">
         <div>
