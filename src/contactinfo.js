@@ -1,4 +1,5 @@
 import review from "./Assets/review.jpg";
+import { ElfsightWidget } from "react-elfsight-widget";
 
 function ContactInfo() {
   const containerWrapper = {
@@ -33,6 +34,7 @@ function ContactInfo() {
 
   return (
     <div style={containerWrapper} className="contact">
+      <ElfsightWidget widgetID="f64e3bd0-382c-4fce-aa0f-0a3811793795" />
       <h1>Contact Information</h1>
       <div style={bodyStyle} className="contactBody">
         <div>
@@ -41,8 +43,12 @@ function ContactInfo() {
           <p className="pstyle">Email: lucky0288@gmail.com</p>
         </div>
       </div>
-      <img src={review} alt="review" style={imageStyle} className="contactBody" />
-  
+      <img
+        src={review}
+        alt="review"
+        style={imageStyle}
+        className="contactBody"
+      />
     </div>
   );
 }
