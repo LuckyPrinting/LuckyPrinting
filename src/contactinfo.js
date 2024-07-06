@@ -32,10 +32,16 @@ function ContactInfo() {
     borderRadius: "10%",
   };
 
+  const h1Style = {
+    marginTop: "10%",
+    textAlign: "center",
+    color: "black",
+  };
+
   return (
     <div style={containerWrapper} className="contact">
       <ElfsightWidget widgetID="f64e3bd0-382c-4fce-aa0f-0a3811793795" />
-      <h1>Contact Information</h1>
+      <h1 style={h1Style}>Contact Information</h1>
       <div style={bodyStyle} className="contactBody">
         <div>
           <p className="pstyle">Phone (PayNow): 92291921</p>
