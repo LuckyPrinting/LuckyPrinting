@@ -7,6 +7,10 @@ import grid5 from "./Assets/GridAssets/Grid5.m4v";
 import grid6 from "./Assets/GridAssets/Grid6.m4v";
 import grid7 from "./Assets/GridAssets/Grid7.m4v";
 import grid8 from "./Assets/GridAssets/Grid8.m4v";
+import grid9 from "./Assets/GridAssets/Grid9.mp4";
+import grid10 from "./Assets/GridAssets/Grid10.mp4";
+
+
 
 function GridContainer() {
   const flexWrapper = {
@@ -111,7 +115,7 @@ function GridContainer() {
         </div>
         <div style={gridContainers}>
           <video
-            src={grid7}
+            src={grid6}
             className="grid-video"
             style={videoStyle}
             alt="Placeholder Video"
@@ -119,6 +123,58 @@ function GridContainer() {
             playsInline
             autoPlay
             loop
+          />
+        </div>
+      </div>
+      <div style={gridWrapper}>
+        <div style={gridContainers}>
+          <video
+            src={grid7}
+            className="grid-video"
+            style={videoStyle}
+            alt="Placeholder Video"
+            muted
+            autoPlay
+            playsInline
+            loop
+          />
+        </div>
+        <div style={gridContainers}>
+          <video
+            src={grid8}
+            className="grid-video"
+            style={videoStyle}
+            alt="Placeholder Video"
+            muted
+            autoPlay
+            loop
+            playsInline
+          />
+        </div>
+      </div>
+      <div style={gridWrapper}>
+        <div style={gridContainers}>
+          <video
+            src={grid9}
+            className="grid-video"
+            style={videoStyle}
+            alt="Placeholder Video"
+            muted
+            autoPlay
+            playsInline
+            loop
+          />
+        </div>
+        <div style={gridContainers}>
+          <video
+            src={grid10}
+            className="grid-video"
+            style={videoStyle}
+            alt="Placeholder Video"
+            muted
+            autoPlay
+            loop
+            playsInline
           />
         </div>
       </div>
