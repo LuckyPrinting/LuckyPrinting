@@ -38,9 +38,17 @@ function ContactInfo() {
     color: "black",
   };
 
+  const reviewBox = {
+    padding: "10%",
+    background: "white",
+    borderRadius: "10%",
+  }
+
   return (
     <div style={containerWrapper} className="contact">
-      <ElfsightWidget widgetId="1a9c8981-3290-46df-97dd-1e570453e366" />
+      <div>
+      <ElfsightWidget style={reviewBox} widgetId="1a9c8981-3290-46df-97dd-1e570453e366" />
+      </div>
       <h1 style={h1Style}>Contact Information</h1>
       <div style={bodyStyle} className="contactBody">
         <div>
