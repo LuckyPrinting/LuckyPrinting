@@ -46,6 +46,11 @@ function DarkMode() {
       topBannerContainer.style.backgroundColor = darkMode ? "black" : "white";
     }
 
+    const formsHeader = document.getElementsByClassName("formsHeader")[0];
+    if (formsHeader) {
+      //ensure that the DOM element has loaded
+      formsHeader.style.color = darkMode ? "white" : "white"; // This is always white as per your comment
+    }
     const topBanner = document.getElementsByClassName("topbanner")[0];
     if (topBanner) {
       //ensure that the DOM element has loaded

@@ -294,7 +294,9 @@ const ContactForm = () => {
             Submit
           </button>
         </form>
-        <h1 style={{ fontFamily: "League Spartan", color: "white !important" }}>
+        <h1 
+        className="formsHeader"
+        style={{ fontFamily: "League Spartan", color: "white !important" }}>
           Powered by Web Wizard Forms
         </h1>
         <img
