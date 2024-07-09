@@ -1,4 +1,3 @@
-import React, { useState, useEffect } from "react";
 import SplineElement from "./spline";
 const containerWrapper = {
   display: "flex",
@@ -15,17 +14,6 @@ const splineContainer = {
 };
 
 function SpliceElement() {
-  const [isLoaded, setIsLoaded] = useState(false);
-
-  useEffect(() => {
-    // Simulate an async loading
-    const timer = setTimeout(() => {
-      setIsLoaded(true);
-    }, 0); // Adjust time as needed to simulate loading delay
-
-    return () => clearTimeout(timer);
-  }, []);
-
   return (
     <div style={splineContainer} className="splineContainer">
       <SplineElement />
