@@ -28,9 +28,9 @@ function DarkMode() {
     document.body.style.backgroundColor = darkMode ? "black" : "white";
     //If darkMode is true, set the color of the body to white, else set it to #202833
     document.body.style.color = darkMode ? "white" : "black";
-    Array.from(document.getElementsByTagName("video")).forEach((video) => {
-      video.style.filter = darkMode ? "invert(1)" : "invert(0)";
-    });
+    // Array.from(document.getElementsByTagName("video")).forEach((video) => {
+    //   video.style.filter = darkMode ? "invert(1)" : "invert(0)";
+    // });
 
     //-------------Styles of the h1 tags-----------------------//
     const h1Tags = document.querySelectorAll("h1");
