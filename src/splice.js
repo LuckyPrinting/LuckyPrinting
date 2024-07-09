@@ -4,6 +4,8 @@ const containerWrapper = {
   justifyContent: "center",
   alignItems: "center",
   width: "100%",
+  overflow: "hidden",
+
 };
 
 const splineContainer = {
@@ -11,6 +13,7 @@ const splineContainer = {
   justifyContent: "center",
   alignItems: "center",
   width: "100%",
+  overflow: "hidden",
 };
 
 function SpliceElement() {
