@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/LuckyPrinting/static/js/main.5e23217e.js",
+    "main.js": "/LuckyPrinting/static/js/main.0b1f416f.js",
     "static/js/208.d2f8c5a7.chunk.js": "/LuckyPrinting/static/js/208.d2f8c5a7.chunk.js",
     "static/js/293.02a17dca.chunk.js": "/LuckyPrinting/static/js/293.02a17dca.chunk.js",
     "static/js/917.e1da3401.chunk.js": "/LuckyPrinting/static/js/917.e1da3401.chunk.js",
@@ -9,7 +9,7 @@
     "static/js/946.11f68788.chunk.js": "/LuckyPrinting/static/js/946.11f68788.chunk.js",
     "static/js/160.e46f2cad.chunk.js": "/LuckyPrinting/static/js/160.e46f2cad.chunk.js",
     "static/js/23.46053682.chunk.js": "/LuckyPrinting/static/js/23.46053682.chunk.js",
-    "static/media/mainVideo.mp4": "/LuckyPrinting/static/media/mainVideo.7369283332d462c1c3e6.mp4",
+    "static/media/mainVideo.mp4": "/LuckyPrinting/static/media/mainVideo.c7e4f606d8c7eaf0f3bd.mp4",
     "static/media/Grid10.mp4": "/LuckyPrinting/static/media/Grid10.7138d441d648cedda710.mp4",
     "static/media/Grid9.mp4": "/LuckyPrinting/static/media/Grid9.ee3da6fabdaf67c64f2f.mp4",
     "static/media/Grid5.m4v": "/LuckyPrinting/static/media/Grid5.ed3f3aa32c22519492c2.m4v",
@@ -24,7 +24,7 @@
     "static/media/Grid6.m4v": "/LuckyPrinting/static/media/Grid6.5d992e7930417400ffa1.m4v",
     "static/media/webwizards.webp": "/LuckyPrinting/static/media/webwizards.8b59ebbb4a399037f1fd.webp",
     "index.html": "/LuckyPrinting/index.html",
-    "main.5e23217e.js.map": "/LuckyPrinting/static/js/main.5e23217e.js.map",
+    "main.0b1f416f.js.map": "/LuckyPrinting/static/js/main.0b1f416f.js.map",
     "208.d2f8c5a7.chunk.js.map": "/LuckyPrinting/static/js/208.d2f8c5a7.chunk.js.map",
     "293.02a17dca.chunk.js.map": "/LuckyPrinting/static/js/293.02a17dca.chunk.js.map",
     "917.e1da3401.chunk.js.map": "/LuckyPrinting/static/js/917.e1da3401.chunk.js.map",
@@ -35,6 +35,6 @@
     "23.46053682.chunk.js.map": "/LuckyPrinting/static/js/23.46053682.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.5e23217e.js"
+    "static/js/main.0b1f416f.js"
   ]
 }
