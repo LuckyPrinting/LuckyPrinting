@@ -5,7 +5,7 @@ export default function SplineElement() {
   return (
     <video
     src={mainVideo}
-    style={{overflow: "none", objectFit: "contain", width: "100%", height: "100%"}}
+    style={{overflow: "none", objectFit: "cover", width: "100%", height: "100%"}}
     autoPlay
     loop
     muted
