@@ -1,6 +1,6 @@
 
 import Spline from '@splinetool/react-spline';
-import mainVideo from './Assets/mainVideo.mp4';
+import mainVideo from './Assets/mainVideo.m4v';
 export default function SplineElement() {
   return (
     <video
