@@ -10,8 +10,6 @@ import grid8 from "./Assets/GridAssets/Grid8.m4v";
 import grid9 from "./Assets/GridAssets/Grid9.mp4";
 import grid10 from "./Assets/GridAssets/Grid10.mp4";
 
-
-
 function GridContainer() {
   const flexWrapper = {
     display: "flex",
