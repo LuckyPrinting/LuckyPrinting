@@ -4,10 +4,10 @@
 
 .pstyle {
   font-size: 130%;
+  transition: ease-in-out 0.3s;
 }
 
 .pstyle:hover {
-  transition: ease-in-out 0.3s;
   transform: scale(1.1);
   overflow: hidden;
   background: white;
